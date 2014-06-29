@@ -1,4 +1,4 @@
-This is a sample file
+This is a sample file, adding content in line1 for seamless merging testing
 Pruthvi changess
 This is a sample file.
 Edited by Thiru
