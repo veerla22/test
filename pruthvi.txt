@@ -1,11 +1,5 @@
-<<<<<<< HEAD
 This is a sample file
 Pruthvi changess
-=======
 This is a sample file.
 Edited by Thiru
->>>>>>> origin/master
-
-
-
 Added new line
